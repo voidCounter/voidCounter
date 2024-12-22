@@ -1,5 +1,4 @@
 ## Hi there
-🌱 I’m currently working on an app where you ca...
 
 ### 📊 GitHub Stats:
    ![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=voidCounter&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)</td>
