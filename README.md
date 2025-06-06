@@ -7,7 +7,7 @@ My interests include **system architectures**, and the low-level architectural d
 ### Things I've worked with so far
 - **Backend**: Java, REST, Spring Boot, Spring Cloud, Kafka.
 - **Frontend**: Next.js, TypeScript.
-- **Infrastructure & DevOps**: AWS S3, Docker, CI/CD, SonarCloud.
+- **Infrastructure & DevOps**: Docker, AWS S3, CI/CD(Github actions), SonarCloud.
 - **Databases**: PostgreSQL, ChromaDB, Flyway, JPA.
 - **Authentication**: JWT, OAuth2.
 - **Tooling & Testing**: Git, JUnit, Mockito, Swagger/OpenAPI, Testcontainers.
