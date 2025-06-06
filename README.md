@@ -1,17 +1,9 @@
-### Hi, I'm Rohit Roy
+### Hey, I'm Rohit
+#### Building
+- [**Gadfly**](https://github.com/voidCounter/gadfly) — AI research agent that investigates topics the way a human would. Runs a 7-phase loop using crawl4ai and camofox. Built for Claude Code, Cursor, Codex, and OpenCode.
+- [**Noeqtion**](https://github.com/voidCounter/noeqtion) — Browser extension that converts LaTeX equations to Notion math blocks with a keyboard shortcut.
 
-I'm in the final year of my CS undergrad. I'm exploring reliable, scalable systems through hands-on development. I primarily work with **Java** and **Spring Boot**, but it changes depending on the problem at hand. I also contribute to open source projects that I use and find valuable.
-
-My interests include **system architectures**, and the low-level architectural decisions that shape robust software. I'm also deeply curious about **tools for thought**—PKMs.
-
-### Things I've worked with so far
-- **Backend**: Java, REST, Spring Boot, Spring Cloud, Kafka.
-- **Frontend**: Next.js, TypeScript.
-- **Infrastructure & DevOps**: AWS S3, Docker, CI/CD, SonarCloud.
-- **Databases**: PostgreSQL, ChromaDB, Flyway, JPA.
-- **Authentication**: JWT, OAuth2.
-- **Tooling & Testing**: Git, JUnit, Mockito, Swagger/OpenAPI, Testcontainers.
-- **AI / LLM Integration**: Retrieval-Augmented Generation (RAG), Spring AI, Vertex AI (Gemini).
-- **Languages**: Java, SQL, Bash, C/C++, SQL.
-
-![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=voidCounter&show_icons=true&theme=transparent&hide_border=true&custom_title=Stats&rank_icon=github&show=reviews,prs_merged_percentage)
+#### Contributing to
+- [**Checkstyle**](https://github.com/checkstyle/checkstyle) — Added test suite for vertically aligned `//indent:` comments across 124 files (8,600 additions). Handled emoji and supplementary code point edge cases.
+- [**Obsidian Web Clipper**](https://github.com/obsidianmd/obsidian-clipper) — Added Bengali locale.
+- [**Zen Audio Player**](https://github.com/zen-audio-player/zen-audio-player.github.io) — Replaced Bower with CDN delivery, removed 100K+ lines of legacy dependencies, fixed Puppeteer tests.
