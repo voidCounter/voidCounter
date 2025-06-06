@@ -5,12 +5,12 @@ I'm in the final year of my CS undergrad. I'm exploring reliable, scalable syste
 My interests include **system architectures**, and the low-level architectural decisions that shape robust software. I'm also deeply curious about **tools for thought**—PKMs.
 
 ### Things I've worked with so far
-- **Backend**: Java, REST, Spring Boot, Spring Cloud
+- **Backend**: Java, REST, Spring Boot, Spring Cloud, Kafka.
 - **Frontend**: Next.js, TypeScript.
-- **Infrastructure & DevOps**: AWS S3, Docker, GitHub Actions, SonarCloud.
+- **Infrastructure & DevOps**: AWS S3, Docker, CI/CD, SonarCloud.
 - **Databases**: PostgreSQL, ChromaDB, Flyway, JPA.
 - **Authentication**: JWT, OAuth2.
-- **Tooling & Testing**: Git, CI/CD(Github Actions), JUnit, Mockito, Swagger/OpenAPI, Testcontainers.
+- **Tooling & Testing**: Git, JUnit, Mockito, Swagger/OpenAPI, Testcontainers.
 - **AI / LLM Integration**: Retrieval-Augmented Generation (RAG), Spring AI, Vertex AI (Gemini).
 - **Languages**: Java, SQL, Bash, C/C++, SQL.
 
